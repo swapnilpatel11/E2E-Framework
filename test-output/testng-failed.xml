@@ -8,7 +8,7 @@
     <classes>
       <class name="Academy.HomePage">
         <methods>
-          <include name="basePagenavigation" invocation-numbers="0"/>
+          <include name="basePagenavigation" invocation-numbers="0 1"/>
         </methods>
       </class> <!-- Academy.HomePage -->
     </classes>
